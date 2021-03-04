@@ -8,4 +8,3 @@ This repository is part of the blog post series, [API's from Dev to Production -
 * C#
 * Docker
 * GitHub
-* GitHub Actions
